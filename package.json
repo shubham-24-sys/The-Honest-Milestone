@@ -1,0 +1,11 @@
+{
+  "name": "milestone-investing-prototype",
+  "version": "1.0.0",
+  "description": "Beginner-friendly investing education and goal-planning prototype for college students in India",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "serve": "npx serve -l 3000 ."
+  },
+  "author": "Milestone Team",
+  "license": "MIT"
+}
